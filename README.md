@@ -1,3 +1,2 @@
 # demo
-Sprng boot 
-RabbitMq 적용 예제
+Sprng boot + RabbitMq 적용 예제
